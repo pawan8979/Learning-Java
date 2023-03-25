@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-
 public class _5Array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); 
@@ -22,7 +20,7 @@ public class _5Array {
             System.out.print(arr[i] + " ");
               
         }
-
+        scanner.close();
 
     }
 }
