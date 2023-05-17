@@ -6,6 +6,7 @@ import javax.swing.*;
 public class _38Button extends JFrame implements ActionListener{
     //JPanel= a GUI component that functions as a container to hold other components
     JButton button= new JButton();
+    JButton button2= new JButton("2");
     JLabel label= new JLabel();
     _38Button(){
         
@@ -14,6 +15,7 @@ public class _38Button extends JFrame implements ActionListener{
         label.setBounds(150,250,150,150);
         label.setVisible(false);
         button.setBounds(200, 100, 100, 50);
+        button2.setBounds(100, 0, 50, 50);
         button.addActionListener(this);
         button.setText("Click me "); //set button name
         button.setFocusable(false); //remove focus borderline around the button
@@ -31,6 +33,7 @@ public class _38Button extends JFrame implements ActionListener{
         this.setVisible(true); //make frame visible
 
         this.add(button);
+        this.add(button2);
         this.add(label);
     } 
 
