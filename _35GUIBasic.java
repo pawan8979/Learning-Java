@@ -3,14 +3,8 @@ import javax.swing.*;
 
 public class _35GUIBasic extends JFrame{
     _35GUIBasic(){
-        this.setTitle("Learning"); //set frame title
+        this.setTitle("GUI BASIC"); //set frame title
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //exit out of application
-        this.setResizable(false); //prevent frame from being resized
-        this.setResizable(false); //prevent frame from being resized
-        this.setResizable(false); //prevent frame from being resized
-        this.setResizable(false); //prevent frame from being resized
-        this.setResizable(false); //prevent frame from being resized
-        this.setResizable(false); //prevent frame from being resized
         this.setResizable(false); //prevent frame from being resized
 
         this.setSize(420, 420); //sets the x-dimension, and y-dimension of frame
