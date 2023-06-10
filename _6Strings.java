@@ -8,3 +8,5 @@ public class _6Strings {
         System.out.println(sb.append(" Is Everything"));
     }
 }
+
+// String Buffer is thread safe and String Builder is not

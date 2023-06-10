@@ -1,3 +1,5 @@
+// static block helps us to initialize the static variable only once as it is only called once irrespective of how many objects you create
+//static is called first before constructor because class loading happens first
 
 class Mobile{
 	String brand;

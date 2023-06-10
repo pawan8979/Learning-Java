@@ -1,7 +1,6 @@
 
 
 public class _29TryCatch {
-    public class Demo {
         public static void main(String[] args) {
         
         int i=0;
@@ -19,5 +18,4 @@ public class _29TryCatch {
         
         System.out.println("Bye");
         }
-    }
 }

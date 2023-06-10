@@ -1,4 +1,4 @@
-
+//You can only use static variable inside static method
 class Mobile
 {
 	String brand;
@@ -10,6 +10,11 @@ class Mobile
 		System.out.println(brand+" : "+price + " : " + name);
 	}
 	
+	// public static void show1(Mobile obj)
+	// {
+	// 	System.out.println(obj.brand+" : "+obj.price + " : " + name);
+		
+	// }
 	public static void show1()
 	{
 		System.out.println("in static method");
@@ -35,6 +40,7 @@ public class _9staticMethod {
 		obj1.show();
 		obj2.show();
 		
+		// Mobile.show1(obj1); Indirectly using non static variables inside static method
 		Mobile.show1();
 
 	

@@ -1,3 +1,4 @@
+//static helps in making different objects referencing the same property/variable and if that property is changed for one object then it will be chnaged for all referenced objects
 
 class Mobile{
 	String brand;

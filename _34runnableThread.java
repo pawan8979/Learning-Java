@@ -4,6 +4,12 @@ class A implements Runnable{
         for(int i=0;i<100;i++)
         {
             System.out.println("I am class A");
+            try {
+                Thread.sleep(10);
+            } catch (InterruptedException e) {
+               
+                e.printStackTrace();
+            }
         }
     }
 }
@@ -14,6 +20,12 @@ class B implements Runnable{
         for(int i=0;i<100;i++)
         {
             System.out.println("I am class B");
+            try {
+                Thread.sleep(10);
+            } catch (InterruptedException e) {
+               
+                e.printStackTrace();
+            }
         }
     }
     
