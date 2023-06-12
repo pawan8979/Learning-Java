@@ -57,7 +57,7 @@ class radio extends JFrame implements ActionListener{
      }
 }
 
-public class _45radioButton {
+public class __45radioButton {
     public static void main(String[] args) {
         new radio();
     }

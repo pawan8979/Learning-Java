@@ -1,4 +1,4 @@
-public class _30multipleCatch {
+public class __30multipleCatch {
     public static void main(String[] args) {
     	
     	int i=2;

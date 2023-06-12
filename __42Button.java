@@ -3,12 +3,12 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-public class _42Button extends JFrame implements ActionListener{
+public class __42Button extends JFrame implements ActionListener{
     //JPanel= a GUI component that functions as a container to hold other components
     JButton button= new JButton();
     JButton button2= new JButton("2");
     JLabel label= new JLabel();
-    _42Button(){
+    __42Button(){
         
         ImageIcon icon= new ImageIcon("emoji.png");
         label.setIcon(icon);
@@ -47,7 +47,7 @@ public class _42Button extends JFrame implements ActionListener{
 
 
 public static void main(String arg[]) {
-    new _42Button();
+    new __42Button();
 }
 
 

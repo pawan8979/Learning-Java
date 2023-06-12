@@ -5,7 +5,7 @@ class NavinException extends Exception
 		super(string);
 	}
 }
-public class _32customException {
+public class __32customException {
     public static void main(String[] args) {
     	
 //    	int i=2;

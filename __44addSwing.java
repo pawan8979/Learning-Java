@@ -37,7 +37,7 @@ class AddSub extends JFrame implements ActionListener{
         l.setText(result + "");
     }
 }
-public class _44addSwing {
+public class __44addSwing {
     public static void main(String[] args) {
         new AddSub();
     }

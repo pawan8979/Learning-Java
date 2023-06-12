@@ -1,4 +1,4 @@
-public class _31throwException {
+public class __31throwException {
     public static void main(String[] args) {
     	
 //    	int i=2;

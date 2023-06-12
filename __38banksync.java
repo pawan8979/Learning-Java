@@ -47,7 +47,7 @@ class customer extends Thread
    }
 }
 
-public class _38banksync
+public class __38banksync
 {
     public static void main(String[] args) {
         Account a1 = new Account(1000);

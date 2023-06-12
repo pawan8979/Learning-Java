@@ -1,8 +1,8 @@
 import java.awt.Color;
 import javax.swing.*;
 
-public class _39GUIBasic extends JFrame{
-    _39GUIBasic(){
+public class __39GUIBasic extends JFrame{
+    __39GUIBasic(){
         this.setTitle("GUI BASIC"); //set frame title
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //exit out of application
         this.setResizable(false); //prevent frame from being resized
@@ -17,7 +17,7 @@ public class _39GUIBasic extends JFrame{
 
 
 public static void main(String arg[]) {
-    new _39GUIBasic();
+    new __39GUIBasic();
 }
 }
 

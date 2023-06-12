@@ -3,10 +3,10 @@ import java.awt.Color;
 
 import javax.swing.*;
 
-public class _41JPanel extends JFrame{
+public class __41JPanel extends JFrame{
     //JPanel= a GUI component that functions as a container to hold other components
 
-    _41JPanel(){
+    __41JPanel(){
         ImageIcon icon= new ImageIcon("javaimg.jpg");
         JLabel label = new JLabel();
         label.setText("Name");
@@ -43,7 +43,7 @@ public class _41JPanel extends JFrame{
 
 
 public static void main(String arg[]) {
-    new _41JPanel();
+    new __41JPanel();
 }
 }
 

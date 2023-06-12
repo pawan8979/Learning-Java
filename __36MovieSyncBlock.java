@@ -31,7 +31,7 @@ class movieBook {
 
 }
 
-class _36MovieSyncBlock extends Thread{
+class __36MovieSyncBlock extends Thread{
 
     int seats;
     static movieBook m ;

@@ -5,7 +5,7 @@ Types of error:-
 3. Logical error
 */
 
-public class _28Exception {
+public class __28Exception {
     public static void main(String[] args) {
     
 //  	System.out.Println();

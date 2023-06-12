@@ -19,7 +19,7 @@ class B extends Thread{
     
 }
 
-public class _33extendThread{
+public class __33extendThread{
     public static void main(String[] args) {
         A obj1= new A();
         B obj2= new B();

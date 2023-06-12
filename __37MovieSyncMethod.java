@@ -18,7 +18,7 @@ class movieBook {
 
 }
 
-class _37MovieSyncMethod extends Thread{
+class __37MovieSyncMethod extends Thread{
 
     int seats;
     static movieBook m ;
@@ -27,10 +27,10 @@ class _37MovieSyncMethod extends Thread{
     }
     public static void main(String[] args) {
         m = new movieBook();
-        _37MovieSyncMethod pawan = new _37MovieSyncMethod();
+        __37MovieSyncMethod pawan = new __37MovieSyncMethod();
         pawan.seats= 7;
         pawan.start();
-        _37MovieSyncMethod vivek = new _37MovieSyncMethod();
+        __37MovieSyncMethod vivek = new __37MovieSyncMethod();
         vivek.seats= 6;
         vivek.start();
 

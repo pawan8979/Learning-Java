@@ -31,7 +31,7 @@ class B implements Runnable{
     
 }
 
-public class _34runnableThread {
+public class __34runnableThread {
     public static void main(String[] args) {
         A obj1= new A();
         Thread t1= new Thread(obj1);

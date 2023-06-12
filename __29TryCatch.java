@@ -1,6 +1,6 @@
 
 
-public class _29TryCatch {
+public class __29TryCatch {
         public static void main(String[] args) {
         
         int i=0;

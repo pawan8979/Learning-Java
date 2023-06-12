@@ -23,7 +23,7 @@ class calling extends JFrame
     }
 }
 
-public class _46callerRadio {
+public class __46callerRadio {
    public static void main(String[] args) {
     new calling();
    } 
