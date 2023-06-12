@@ -23,7 +23,7 @@ class Human
 	}
 }
 
-public class _10Encapsulation {
+public class __10Encapsulation {
 	public static void main(String[] args) throws ClassNotFoundException
 	{
 		Human obj=new Human();
