@@ -28,7 +28,7 @@ class Human
 	}
 }
 
-public class _12Constructor {
+public class __12Constructor {
 	public static void main(String[] args) throws ClassNotFoundException
 	{
 		Human obj=new Human();

@@ -5,7 +5,7 @@ char -> Character
 double -> Double
 */
 
-public class _20WrapperClass {
+public class __20WrapperClass {
     public static void main(String[] args){   
     	
     	int num=7;

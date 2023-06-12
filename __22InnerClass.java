@@ -25,7 +25,7 @@ class A
 }
 
 
-public class _22InnerClass{
+public class __22InnerClass{
     public static void main(String[] args) {
     	A obj=new A();
     	obj.show();

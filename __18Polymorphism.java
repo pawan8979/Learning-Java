@@ -43,7 +43,7 @@ class D
 }
 
 
-public class _18Polymorphism{
+public class __18Polymorphism{
 	public static void main(String[] args) {
 //		A obj=new B();
 //		obj.show();

@@ -38,7 +38,7 @@ class B implements A,Y
 	}
 }
 
-public class _27moreOnInterface {
+public class __27moreOnInterface {
     public static void main(String[] args) {
 
     	A obj;

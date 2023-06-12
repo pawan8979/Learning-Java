@@ -38,7 +38,7 @@ class Human
 
 }
 
-public class _11This {
+public class __11This {
 	public static void main(String[] args) throws ClassNotFoundException
 	{
 		Human obj=new Human();

@@ -68,7 +68,7 @@ class B extends A
 	}
 }
 
-public class _13thisSuper {
+public class __13thisSuper {
 	public static void main(String[] args) 
 	{
 		

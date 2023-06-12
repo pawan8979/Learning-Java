@@ -14,7 +14,7 @@ class A
 //}
 
 
-public class _23AnonInnerClass{
+public class __23AnonInnerClass{
     public static void main(String[] args) {
     	
     	//A obj=new B();

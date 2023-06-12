@@ -34,7 +34,7 @@ class AdvCalc extends Calc
 }
 
 
-public class _16methodOverriding{
+public class __16methodOverriding{
 	public static void main(String args[])
 	{
 //		B obj=new B();

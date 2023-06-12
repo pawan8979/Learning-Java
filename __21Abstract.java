@@ -34,7 +34,7 @@ class UpdateWagnoR extends WagnoR   //concrete class
 	}
 }
 
-public class _21Abstract{
+public class __21Abstract{
     public static void main(String[] args) {
 
  //   	Car obj=new Car();

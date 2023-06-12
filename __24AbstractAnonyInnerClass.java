@@ -14,7 +14,7 @@ abstract class A
 //}
 
 
-public class _24AbstractAnonyInnerClass{
+public class __24AbstractAnonyInnerClass{
     public static void main(String[] args) {
     	
 //    	A obj=new B();

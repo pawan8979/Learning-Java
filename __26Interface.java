@@ -21,7 +21,7 @@ class B implements A
 	}
 }
 
-public class _26Interface {
+public class __26Interface {
     public static void main(String[] args) {
 
     	A obj;

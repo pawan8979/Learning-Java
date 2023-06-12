@@ -81,7 +81,7 @@ class Developer
 	}
 }
 
-public class _25needInterface {
+public class __25needInterface {
     public static void main(String[] args) {
 //        Laptop lap=new Laptop();
 //        Desktop desk=new Desktop();
