@@ -3,10 +3,10 @@ import java.awt.GridLayout;
 
 import javax.swing.*;
 
-public class _39GridLayout extends JFrame{
+public class _43GridLayout extends JFrame{
  
     
-    _39GridLayout(){
+    _43GridLayout(){
        
         this.setTitle("GRID"); //set frame title
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //exit out of application
@@ -30,7 +30,7 @@ public class _39GridLayout extends JFrame{
 
 
 public static void main(String arg[]) {
-    new _39GridLayout();
+    new _43GridLayout();
 }
 
 

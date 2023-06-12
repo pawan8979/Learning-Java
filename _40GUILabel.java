@@ -2,9 +2,9 @@ import javax.swing.*;
 import javax.swing.border.Border;
 
 import java.awt.*;
-public class _36GUILabel extends JFrame{
+public class _40GUILabel extends JFrame{
     //JLabel= a GUI display area for a string of text, an image, or both
-    _36GUILabel(){
+    _40GUILabel(){
         ImageIcon image= new ImageIcon("javaimg.jpg");
         Border border= BorderFactory.createLineBorder(Color.green, 3);//create a border
 
@@ -36,7 +36,7 @@ public class _36GUILabel extends JFrame{
 
 
 public static void main(String arg[]) {
-    new _36GUILabel();
+    new _40GUILabel();
 }
 }
 
